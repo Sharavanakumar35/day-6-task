@@ -1,2 +1,3 @@
-# day-6-task
-GUVI Day 6 task - oops concept
+### Task Day: 6
+
+## 1. Class - Movie ([click to view question](https://github.com/rvsp/typescript-oops/blob/master/Practice/Movie.md))
