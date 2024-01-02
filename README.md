@@ -7,7 +7,7 @@ Click [here](https://github.com/Sharavanakumar35/day-6-task/edit/main/movieClass
 Click [here](https://github.com/Sharavanakumar35/day-6-task/edit/main/circleClass.js) to view the answer
 
 ## 3. Write a “person” class to hold all the details. 
-Click [here](https://github.com/Sharavanakumar35/day-6-task/edit/main/circleClass.js) to view the answer
+Click [here](https://github.com/Sharavanakumar35/day-6-task/edit/main/resume.js) to view the answer
 
 ## 4. Write a class to calculate the Uber price.
 Click [here](https://github.com/Sharavanakumar35/day-6-task/edit/main/uberPrice.js) to view the answer
